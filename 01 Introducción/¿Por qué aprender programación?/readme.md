@@ -12,7 +12,7 @@ El lenguaje de programación es considerado un medio creativo. Y más abajo vere
 
 Algo de lo que debemos comenzar a ser conscientes, es de la universalidad que estos lenguajes tienen, los lenguajes de programación podrían ser entendidos como nuevo esperanto, como estándar internacional. Podemos crear en cualquier parte del mundo, para cualquier parte del mundo.
 
-En este libro, veremos las bases de Processing. No necesitas tener ningún tipo de conocimiento anterior para seguirlo con facilidad. Vamos a ir realizando pequeños programas y explicando cómo funcionan. El temario que vamos a seguir es el siguiente:
+En este curso veremos las bases de Processing. No necesitas tener ningún tipo de conocimiento anterior para seguirlo con facilidad. Vamos a ir realizando pequeños programas y explicando cómo funcionan. El temario que vamos a seguir es el siguiente:
 
 01. Introducción
 02. Processing
