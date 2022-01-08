@@ -1,0 +1,3 @@
+## 1.5 ¿Qué es Processing?
+
+En el sentido más simple, Processing es una aplicación de software que le permite escribir, editar, compilar (que se explicará en breve), y ejecutar código Java. Sin embargo, antes sumergirnos en Processing , te ayudará entender un poco acerca de Java, pero incluso antes de hablar de Java, tenemos que hablar brevemente acerca de la computación en general. (Ten en cuenta que este será uno de los pocos lugares en el libro donde nos tiramos un poco de teoría sin una diversión, la actividad práctica).

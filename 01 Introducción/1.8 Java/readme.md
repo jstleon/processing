@@ -1,0 +1,32 @@
+## 1.8 Java
+
+El desarrollo de Java era, por algunos estándares, un fracaso. Java fue desarrollado inicialmente para televisión interactiva y en última instancia para conectar dispositivos “inteligentes”, que en realidad no capturan hasta unos quince años después de la liberación de Java. Damos por sentado ahora que nuestros televisores de pantalla plana más nuevos y lisos se conectan a Internet, lo que nos permite navegar por la red mientras vemos series por demanda y revisamos nuestro correo electrónico. Ya en 1995, se trataba de una quimera en manos de unos pocos fanáticos tecnológicos.
+
+Java, podría decirse que se salvó gracias a la proliferación de Internet y Java es hoy uno de los lenguajes de programación más populares del mundo, según el Índice de Comunidad TIOBE Programación (http://blog.uchceu.es/informatica/ranking-de-lenguajes-de-programacion-mas-usados-para-2014/).
+ 
+Java fue diseñado como un lenguaje de programación con todas las funciones, como C, pero con una portabilidad diferencial universal muy grande. El lema original de Java era “escribe una vez, ejecuta en todas partes.” La idea era que un programador podría escribir un programa Java en cualquier máquina, y el programa se ejecute constantemente en cualquier otra máquina. Esto puede no parecer una gran cosa a primera vista, pero las computadoras no son simplemente las palabras de moda que las que hemos reducido: Mac, Windows, Linux. Las computadoras están compuestas por una gran cantidad de piezas complejas, tales como unidades centrales de Proceso (CPU), las unidades de procesamiento gráfico (GPU) y la memoria de acceso aleatorio (RAM), sólo para nombrar algunos. Estas piezas, especialmente la CPU, el cerebro principal de la computadora, se basan en instrucciones específicas, el lenguaje de máquina, para hacer su magia. Por desgracia, estas instrucciones de la máquina varían mucho de no sólo las de informática, sino también componentes específicos de hardware como CPU.
+
+Pensando en nuestra discusión sobre el lenguaje de programación de la Assembly, se enteró de que la Assembly envuelve lenguaje de máquina con la mnemotecnia añadiendo un poco más comandos de lo normal, sonando lingüísticos a las matemáticas binarias subyacentes. El lenguaje C lleva el proceso un paso más allá, en un sentido envolviendo el lenguaje ensamblador con una construcción de lenguaje de alto nivel tanto, lo que simplifica enormemente la programación. Por ejemplo, una línea de código C podría reemplazar diez líneas de Assembly. El problema con la forma en que este enfoque funciona es que el código (sin tener en cuenta si se trata de la Assembly o C) todo se sigue reduciendo a lenguaje de máquina, y como se mencionó anteriormente, el código de lenguaje de máquina es específico para el hardware de la máquina que está trabajando. Para ejecutar un programa en C, es necesario convertir explícitamente el código C a lenguaje de máquina para su CPU específica.
+
+Nos referimos a este proceso como compilación. Compilador de lenguaje de CA es un software que hace que la conversión a partir del código fuente en C que se escribe en el idioma nativo de la máquina, el código binario (de 1 y 0).
+
+Entonces, ¿cómo Java mejora esta situación? Java incorpora una capa adicional de software, llamado un intérprete de lenguaje, o para usar la jerga de Java, una Máquina Virtual Java (comúnmente abreviado como JVM). El código Java, como el código C, se compila. Sin embargo, el código de Java no se compila hasta el nivel de máquina nativo, que a su vez sería específica de hardware. Más bien, el código Java se compila a una forma universal superior, llamado código de bytes. El código de bytes de Java es universal, ya que debe ser capaz de funcionar en cualquier máquina, independientemente del hardware subyacente de la arquitectura, siempre que el producto incluya una máquina virtual Java.
+
+Si piensas de nuevo a nuestra discusión anterior, el lenguaje Java era un fracaso inicial salvado por la proliferación de Internet. Internet es una vasta red de computadoras, con una amplia variedad de configuraciones de hardware, ejecutando varios sistemas operativos. La declaración de Java, incluyendo su compilador (a byte code) y su intérprete (JVM), se convirtió en la solución perfecta para conectar todos estos dispositivos dispares. Además, algunos navegadores web incluyen su propia máquina virtual de Java, permitiendo que los programas Java (conocidos como applets en este contexto) funcionar también en la Web. Para saber más sobre la interesante historia interesante de Java, consulta:
+
+http://www.oracle.com/technetwork/java/javase/overview/javahistory-index-198355.html. 
+
+Además de Internet, Java también está teniendo un impacto dramático en la informática móvil, y más en general, en todas partes, con máquinas virtuales Java ampliamente disponibles para la mayoría de nuestros dispositivos portátiles y de mano. Por ejemplo, el sistema operativo Android de Google está basado en Java.
+
+Así que al final, parece que Java, al igual que otras ideas revolucionarias, no era tanto un fracaso como adelantado a su tiempo.
+
+Eso no quiere decir que Java está exento de críticas. Java sigue siendo un lenguaje complejo, y es un reto difícil aprender el medio ambiente para trabajar y también es un reto para enseñar en el aula como introducción informática. Algunos críticos también culpan a Java por ser más lento que un lenguaje puramente compilado como C, que no necesita ser ejecutado a través de un intérprete del lenguaje. (Es un tema muy caliente en cuanto a cuánto más lento es Java en realidad comparado con un lenguaje puramente compilado como C) Desde la liberación de Java, muchas otras nuevas lenguas se han desarrollado y apuntan a reducir aún más la complejidad de la programación. Una de ellas es Processing, que no ha dejado de crecer en popularidad desde su lanzamiento en el año 2001. A pesar de que Processing es de hecho un entorno de programación independiente, con su propio lenguaje, aprenderás que también está indisolublemente ligado a Java.
+ 
+How to draw with code | Casey Reas
+https://www.youtube.com/watch?v=_8DMEHxOLQE
+
+Hello Word! Processing
+http://vimeo.com/61191770
+
+
+Este documento es un resumen del primer capítulo del TALLER DE PROGRAMACIÓN CREATIVA CON PROCESSING de AIR ROOM subido en YOUTUBE.
