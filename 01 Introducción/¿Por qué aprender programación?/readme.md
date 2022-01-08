@@ -1,5 +1,7 @@
 ## ¿Por qué aprender programación?
 
+[Enlace a vídeo de Youtube](https://youtu.be/Um4IlMFwB4M)
+
 Uno de los lugares donde más afectan las nuevas tecnologías es a los mercados laborales. Mientras los diseñadores en los 90’s, pensábamos en carteles, tarjetas de visita, cartas, tampones, etc. En el cambio de siglo ya estábamos pensando en banners, webs, animando flash, etc. 
 
 Los profesionales del diseño, en su gran mayoría, hemos tenido que aprender a dominar nuevas tecnologías, nuevos medios y nuevas herramientas a medida que han ido apareciendo en nuestras vidas. Los perfiles se difuminan, hoy por hoy, ya existen programadores que diseñan y diseñadores que programan. Es muy posible que en el futuro, estas diferencias se difuminen aún más, y la programación y el diseño, se complementen, o conviertan en asignaturas formativas básicas. Es posible.
