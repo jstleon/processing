@@ -1,0 +1,25 @@
+int maxImages = 6;
+int imageIndex = 0;
+
+PImage [] images = new PImage[maxImages];
+
+void setup(){
+  size(1000, 1000);
+  images [0] = loadImage("a.jpg");
+  images [1] = loadImage("b.jpg");
+  images [2] = loadImage("c.jpg");
+  images [3] = loadImage("d.jpg");
+  images [4] = loadImage("e.jpg");
+  images [5] = loadImage("f.jpg");
+  frameRate(15);
+}
+
+void draw(){
+  background(0);
+  image(images[imageIndex], 0, 0);
+  imageIndex = (imageIndex + 1) % images.length;
+}
+
+void mousePressed(){
+  imageIndex = int(random(images.length));
+}

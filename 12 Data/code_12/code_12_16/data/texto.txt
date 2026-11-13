@@ -1,0 +1,15 @@
+
+La inteligencia artificial (IA) es una rama de la informática que busca desarrollar
+algoritmos, sistemas y técnicas que permitan a las máquinas aprender y tomar decisiones
+similares a las humanas. Con el auge de la tecnología y el procesamiento de grandes cantidades
+de datos, la IA ha experimentado avances significativos en las últimas décadas.
+
+Las aplicaciones de la IA son diversas e incluyen áreas como el procesamiento del lenguaje
+natural, el reconocimiento de imágenes y voz, la robótica, y la toma de decisiones en diversos campos.
+
+OpenAI, una organización líder en el campo de la IA, ha desarrollado modelos avanzados
+como GPT-4 que tienen la capacidad de generar texto, traducir idiomas, responder preguntas y
+realizar muchas otras tareas con precisión humana o incluso superior.
+
+El futuro de la IA es prometedor y se espera que tenga un impacto profundo en la sociedad,
+la economía y la vida cotidiana de las personas en los próximos años.

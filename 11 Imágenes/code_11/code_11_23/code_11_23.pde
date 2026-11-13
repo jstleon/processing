@@ -1,0 +1,10 @@
+size(800, 800);
+PImage frt;
+frt = loadImage("Frutas.jpg");
+stroke(255);
+strokeWeight(12);
+image(frt, 0, 0);
+line(0, 0, width, height);
+line(0, height, width, 0);
+PImage frtCrop = frt.get(20, 20, 400, 400);
+image(frtCrop, 200, 200);
